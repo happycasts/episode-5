@@ -1,0 +1,3 @@
+When I was doing code for my former employers, I believed that VCS(version Control System), like CVS, SVN are not concerned until we've finished the patch and try to submit it for the world to view. But soon after I knew git, I started to relize that VCS can also be of great help to the process of implementing the code.
+
+Let's first setup a project, and now save our very first version.
